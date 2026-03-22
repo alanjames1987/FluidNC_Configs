@@ -1,5 +1,5 @@
 board: Jackpot V2 TMC2226
-name: LowRider
+name: MPCNC
 meta: 07-10-2025 RyanZ
 
 planner_blocks: 32
